@@ -211,5 +211,31 @@ He deals with it with all credibility and impartiality
 <a href="https://play.google.com/store/apps/details?id=com.alyawm_news_app">
         <img alt="Google Play" src="https://cdn-icons-png.flaticon.com/512/6124/6124997.png" style="width:2rem; height: 2rem">
     </a>  
+  
+
+<br></br>
+-----------------------------  
+  
+
+<div align="center">
+<img src="https://play-lh.googleusercontent.com/YLFPMrD_77KZii8WabKeN1T2eN4zFaQmNGR5EHSI2fLW6Y5xHnVkXNRGcydyHRqyg1Ss=w480-h960" align="center" height="400" width="400" />
+</div>  
+  
+
+
+
+### Description  
+The idea of communication is based on providing a safe, easy-to-use environment around the clock for communication between the agencies of government, civil and security institutions, and in which there is access for every employee without exception, and their functions are used according to job powers, administrative structures, and geographical regions, and it is possible to control who sends messages, their nature, and attachments, and it is managed by The office of the Prime Minister, and the powers granted to the ministries and security agencies are controlled according to their competence.  
+  
+
+<a href="https://play.google.com/store/apps/details?id=com.ahdtech.twassal">
+        <img alt="Google Play" src="https://cdn-icons-png.flaticon.com/512/6124/6124997.png" style="width:2rem; height: 2rem">
+    </a>
+<a  href="https://apps.apple.com/il/app/تواصل-tawasol/id1609224406">
+        <img alt="Apple Store" src="https://cdn-icons-png.flaticon.com/512/5977/5977575.png" style="width:2rem; height: 2rem"></a>  
+  
+
+<br></br>
+-----------------------------  
 
 <br />
