@@ -125,6 +125,3 @@ Our comprehensive coverage includes all the major leagues and tournaments from a
 Whether you're a die-hard fan or just looking to stay informed, Taktikat has you covered. Download the app today and join the millions of users already enjoying all that Taktikat has to offer.  
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
