@@ -111,7 +111,7 @@ I like to add my creativity to the overall implementation of the project and Iâ€
   
 
 <div align="center">
-<img src="https://play-lh.googleusercontent.com/cZR4VTPkbnquJjVOvkL6f06GnzwVclY9EIRNNaGpCRlpLNCAd8BWD1ZqP-36Zx3iBqFT=w480-h960" align="center" style="width: 100%" />
+<img src="https://play-lh.googleusercontent.com/cZR4VTPkbnquJjVOvkL6f06GnzwVclY9EIRNNaGpCRlpLNCAd8BWD1ZqP-36Zx3iBqFT=w480-h960" align="center" height="300" width="300" />
 </div>  
   
 
