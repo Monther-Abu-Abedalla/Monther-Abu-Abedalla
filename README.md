@@ -125,8 +125,8 @@ Our comprehensive coverage includes all the major leagues and tournaments from a
 Whether you're a die-hard fan or just looking to stay informed, Taktikat has you covered. Download the app today and join the millions of users already enjoying all that Taktikat has to offer.  
   
 
-<div align="center"><img alt="Google Play" src="https://cdn-icons-png.flaticon.com/512/6124/6124997.png" style="max-width:5%;">
+<img alt="Google Play" src="https://cdn-icons-png.flaticon.com/512/6124/6124997.png" style="width:2rem; height: 2rem">
 
-<img alt="Google Play" src="https://cdn-icons-png.flaticon.com/512/5977/5977575.png" style="max-width:5%;"></div>  
+<img alt="Google Play" src="https://cdn-icons-png.flaticon.com/512/5977/5977575.png" style="width:2rem; height: 2rem">  
 
 <br />
