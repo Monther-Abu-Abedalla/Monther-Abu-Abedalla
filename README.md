@@ -125,14 +125,17 @@ Our comprehensive coverage includes all the major leagues and tournaments from a
 Whether you're a die-hard fan or just looking to stay informed, Taktikat has you covered. Download the app today and join the millions of users already enjoying all that Taktikat has to offer.  
   
 
-<div style="width: 100%; display: flex; justify-content: center; align-items: center; align-content: center; gap: 2rem;">
-    <a href="https://play.google.com/store/apps/details?id=com.digitalfuture.taktikat">
-        <img alt="Google Play" src="https://cdn-icons-png.flaticon.com/512/6124/6124997.png" style="width:2rem; height: 2rem">
-    </a>
-
-  <a  href="https://apps.apple.com/us/app/taktikat/id6443930220">
-        <img alt="Apple Store" src="https://cdn-icons-png.flaticon.com/512/5977/5977575.png" style="width:2rem; height: 2rem">
-    </a>
-</div>  
+  <div style="width: 100%; display: flex; justify-content: center;">
+        <div style="margin-right: 1rem">
+            <a href="https://play.google.com/store/apps/details?id=com.digitalfuture.taktikat">
+                <img alt="Google Play" src="https://cdn-icons-png.flaticon.com/512/6124/6124997.png" style="width:2rem; height: 2rem">
+            </a>
+        </div>
+        <div>
+            <a  href="https://apps.apple.com/us/app/taktikat/id6443930220">
+                <img alt="Apple Store" src="https://cdn-icons-png.flaticon.com/512/5977/5977575.png" style="width:2rem; height: 2rem">
+            </a>
+        </div>
+    </div>  
 
 <br />
