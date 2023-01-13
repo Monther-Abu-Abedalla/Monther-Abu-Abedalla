@@ -130,3 +130,6 @@ Whether you're a die-hard fan or just looking to stay informed, Taktikat has you
 <img alt="Google Play" src="https://cdn-icons-png.flaticon.com/512/5977/5977575.png" style="width:5rem; height: 5rem">  
 
 <br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
