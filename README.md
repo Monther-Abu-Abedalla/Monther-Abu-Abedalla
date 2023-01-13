@@ -125,14 +125,49 @@ Our comprehensive coverage includes all the major leagues and tournaments from a
 Whether you're a die-hard fan or just looking to stay informed, Taktikat has you covered. Download the app today and join the millions of users already enjoying all that Taktikat has to offer.  
   
 
-<div style="width: 100%; display: flex; justify-content: center; align-items: center; align-content: center; gap: 1rem;">
-    <a href="https://play.google.com/store/apps/details?id=com.digitalfuture.taktikat">
+<a href="https://play.google.com/store/apps/details?id=com.digitalfuture.taktikat">
         <img alt="Google Play" src="https://cdn-icons-png.flaticon.com/512/6124/6124997.png" style="width:2rem; height: 2rem">
     </a>
 
   <a  href="https://apps.apple.com/us/app/taktikat/id6443930220">
-        <img alt="Apple Store" src="https://cdn-icons-png.flaticon.com/512/5977/5977575.png" style="width:2rem; height: 2rem">
-    </a>
+        <img alt="Apple Store" src="https://cdn-icons-png.flaticon.com/512/5977/5977575.png" style="width:2rem; height: 2rem"></a>
+  
+  
+
+<br></br>
+-----------------------------  
+  
+
+<div align="center">
+<img src="https://play-lh.googleusercontent.com/mco2x_T04hwU8CmX8IW5Vs9pqISsPToH87ZNurZwpZmuTG4NwsYwIz2QgWib_emsUAsY=w480-h960" align="center" height="400" width="400" />
 </div>  
+  
+
+
+
+### Description  
+The first social network platform for the world of boxing.
+We help boxers and their managers to find an opponent or sparring partner in the field of amateur and professional boxing.
+As a fighter, organizer, manager or regular user, share what you're doing or see messages from users around the world.
+Discover our community!
+-Here you can be yourself
+-you can share everything from everyday moments to special life events -create your account as a fighter, organizer, manager or regular user -Add Requests to fight
+-Apply a Request to fight
+-Add an Event
+-Add photos and videos to your profile
+-Message your friends.
+-Post photos and videos you want
+-find local boxing matches and share them with your friends
+-follow fighters, managers, organizers to stay up to date
+-Receive notifications when someone comments on or likes your posts
+have fun in our fighting community !  
+  
+
+<a href="https://play.google.com/store/apps/details?id=com.match_me_up.bosala">
+        <img alt="Google Play" src="https://cdn-icons-png.flaticon.com/512/6124/6124997.png" style="width:2rem; height: 2rem">
+    </a>
+
+  <a  href="https://apps.apple.com/us/app/match-me-up/id1624525356">
+        <img alt="Apple Store" src="https://cdn-icons-png.flaticon.com/512/5977/5977575.png" style="width:2rem; height: 2rem"></a>  
 
 <br />
