@@ -169,5 +169,47 @@ have fun in our fighting community !
 
   <a  href="https://apps.apple.com/us/app/match-me-up/id1624525356">
         <img alt="Apple Store" src="https://cdn-icons-png.flaticon.com/512/5977/5977575.png" style="width:2rem; height: 2rem"></a>  
+  
+
+<br></br>
+-----------------------------  
+  
+
+<div align="center">
+<img src="https://play-lh.googleusercontent.com/ADTv7z-OGg_QUxmtQjC69NPWbbi5LlgHqTU-GWB63wXhmuS5bOlqscFf4kYS2kkIY1E=w480-h960" align="center" height="400" width="400" />
+</div>  
+  
+
+
+
+### Description   
+Shehab News Agency, a Palestinian news agency, was established in January 2007 in Gaza. It is famous in the Palestinian arena, as it is the largest Palestinian news page on Facebook.
+It works in the field of providing media and production services to all local, Arab and international media institutions and to all interested parties. The Agency follows in its policies the system of preserving the rights of the Palestinian people and not neglecting them. It also works through its media to show the suffering that the Palestinian people live due to the aggressive Israeli occupation practices against them. Services provided between providing press, production or technical news services. In order for the agency to meet the needs of all media institutions in all their forms and different orientations.  
+  
+
+<a href="https://play.google.com/store/apps/details?id=com.shehab.shehab_app">
+        <img alt="Google Play" src="https://cdn-icons-png.flaticon.com/512/6124/6124997.png" style="width:2rem; height: 2rem">
+    </a>  
+  
+
+<br></br>
+-----------------------------  
+  
+
+<div align="center">
+<img src="https://play-lh.googleusercontent.com/LRFNZZIpzlipLkknirh6dTeB1D-1rjS4UcBo5Uzx1FkVBeKxgeaPnvZy7fHCT27btbA=w480-h960" align="center" height="400" width="400" />
+</div>  
+  
+
+
+
+### Description   
+App For A neutral and independent agency that provides all the daily news and follow-up you need
+He deals with it with all credibility and impartiality  
+  
+
+<a href="https://play.google.com/store/apps/details?id=com.alyawm_news_app">
+        <img alt="Google Play" src="https://cdn-icons-png.flaticon.com/512/6124/6124997.png" style="width:2rem; height: 2rem">
+    </a>  
 
 <br />
