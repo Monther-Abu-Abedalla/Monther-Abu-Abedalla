@@ -73,6 +73,8 @@ I like to add my creativity to the overall implementation of the project and Iâ€
 
 ## Connect with me  
 <div align="center">
+  <a href="https://t.me/Monther_Abu_Abedallah" target="_blank">
+<img src=https://img.shields.io/badge/telegram-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 <a href="https://github.com/https://github.com/Monther-Abu-Abedalla" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
