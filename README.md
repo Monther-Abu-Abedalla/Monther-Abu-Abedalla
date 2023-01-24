@@ -101,9 +101,9 @@ I like to add my creativity to the overall implementation of the project and Iâ€
 ****  
   
 
-<div align="center">
+<!-- <div align="center">
 <img src="https://play-lh.googleusercontent.com/cZR4VTPkbnquJjVOvkL6f06GnzwVclY9EIRNNaGpCRlpLNCAd8BWD1ZqP-36Zx3iBqFT=w480-h960" align="center" height="400" width="400" />
-</div>  
+</div>   -->
   
 
 
