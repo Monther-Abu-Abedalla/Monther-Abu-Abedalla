@@ -107,7 +107,7 @@ I like to add my creativity to the overall implementation of the project and I�
   
 
 
-
+<!-- 
 ### Description   
 With Taktikat, you can stay up-to-date on all the latest happenings in the world of football. From live scores and results to in-depth analysis and exclusive interviews, we bring you everything you need to know about your favorite clubs and players.
 
@@ -121,7 +121,7 @@ Whether you're a die-hard fan or just looking to stay informed, Taktikat has you
     </a>
 
   <a  href="https://apps.apple.com/us/app/taktikat/id6443930220">
-        <img alt="Apple Store" src="https://cdn-icons-png.flaticon.com/512/5977/5977575.png" style="width:2rem; height: 2rem"></a>
+        <img alt="Apple Store" src="https://cdn-icons-png.flaticon.com/512/5977/5977575.png" style="width:2rem; height: 2rem"></a> -->
   
   
 
@@ -229,7 +229,7 @@ The idea of communication is based on providing a safe, easy-to-use environment 
 <br></br>
 -----------------------------  
   
-
+<!-- 
 <div align="center">
 <img src="https://play-lh.googleusercontent.com/Id-XEvkV8lG2TVVFnYJkU0RS2wEWbL5TaBqaVgDQmG0MPH2Hmmv37q3XLLVMs8Zr7gI=w480-h960" align="center" height="400" width="400" />
 </div>  
@@ -251,7 +251,7 @@ Providing engineering plans for real estate.
         <img alt="Google Play" src="https://cdn-icons-png.flaticon.com/512/6124/6124997.png" style="width:2rem; height: 2rem">
     </a>
 <a  href="https://apps.apple.com/il/app/aqaratic-عقاراتك/id1636147042">
-        <img alt="Apple Store" src="https://cdn-icons-png.flaticon.com/512/5977/5977575.png" style="width:2rem; height: 2rem"></a>  
+        <img alt="Apple Store" src="https://cdn-icons-png.flaticon.com/512/5977/5977575.png" style="width:2rem; height: 2rem"></a>   -->
   
 
 <br></br>
