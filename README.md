@@ -35,8 +35,8 @@ I like to add my creativity to the overall implementation of the project and Iâ€
 
 
 
-    ### Frontend
-    <div align="center">
+## Frontend
+<div align="center">
         <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>
         <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
         <a href="https://www.electronjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" /></a>
@@ -51,20 +51,20 @@ I like to add my creativity to the overall implementation of the project and Iâ€
         <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>
         <a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" /></a>
         <a href="https://developer.apple.com/swift/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/swift-original-wordmark.svg" alt="Swift" height="50" /></a>
-    </div>
+</div>
 
 </td><td valign="top" width="50%">
 
 
 
-    ### Backend
-    <div align="center">
+## Backend
+<div align="center">
         <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
         <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>
         <a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" /></a>
         <a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>
         <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>
-    </div>
+</div>
 
 </td></tr></table>
 
@@ -127,8 +127,43 @@ An affordable daily storage rate of 1 QAR is what Inbox Mini offers to her custo
 
 
 <div align="center">
+    <img src="https://play-lh.googleusercontent.com/JybvDKyi-RB1fxNDs-cwyPpNaTSfcmOOFmQDSkz0L4-JDAA7ZLRddL_3JXAIY9oK4bc=w480-h960" align="center" height="400" width="400" />
+</div>
+
+
+
+
+### Description
+Inbox Driver App is an app for delivery inbox boxes and services to and from customers and couriers delivering locally. It helps the drivers to stay on time, stay in touch with the dispatcher, and keep all of their order details in one place.
+Overview:
+With Inbox Driver App, delivery drivers can receive order details on-the-go from their dispatchers, see the fastest routes from pick-up location to customer doorstep, and communicate delivery status updates to multiple parties with a single tap
+With the Inbox Driver App, drivers can see:
+* Their deliver queue
+* Pickup and delivery addresses
+* Order details
+* Maps and navigation
+* Contact numbers and delivery instructions
+
+
+<a href="https://apps.apple.com/us/app/inbox-driver/id1619676863">
+    <img alt="Google Play" src="https://cdn-icons-png.flaticon.com/512/6124/6124997.png" style="width:2rem; height: 2rem">
+</a>
+
+<a  href="https://play.google.com/store/apps/details?id=com.inbox.driver">
+    <img alt="Apple Store" src="https://cdn-icons-png.flaticon.com/512/5977/5977575.png" style="width:2rem; height: 2rem"></a>
+
+
+
+<br></br>
+-----------------------------
+
+
+<div align="center">
     <img src="https://play-lh.googleusercontent.com/cZR4VTPkbnquJjVOvkL6f06GnzwVclY9EIRNNaGpCRlpLNCAd8BWD1ZqP-36Zx3iBqFT=w480-h960" align="center" height="400" width="400" />
 </div>
+
+
+
 
 
 
