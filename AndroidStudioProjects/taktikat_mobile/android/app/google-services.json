@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "1081773739722",
+    "project_id": "taktikat-mobile",
+    "storage_bucket": "taktikat-mobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081773739722:android:7e82adc20304e634186e33",
+        "android_client_info": {
+          "package_name": "com.digitalfuture.taktikat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1081773739722-d9flq9qpn06ib7g3154j7cqdm2kch8r1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAJzHKSmkIdbbqZ7ZjI0ajp9TuR4kShyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1081773739722-d9flq9qpn06ib7g3154j7cqdm2kch8r1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1081773739722-kkg9rqqv45fsq0l6mv3h9m0jfeqm0t1v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.taktikat"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081773739722:android:d93036895c347177186e33",
+        "android_client_info": {
+          "package_name": "com.example.taktikat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1081773739722-1qfv14iandll0b78mr098n1ah1gor67h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.taktikat",
+            "certificate_hash": "3d43cb7d21e76b7e94a13a7e13501a59dc964f67"
+          }
+        },
+        {
+          "client_id": "1081773739722-d9flq9qpn06ib7g3154j7cqdm2kch8r1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAJzHKSmkIdbbqZ7ZjI0ajp9TuR4kShyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1081773739722-d9flq9qpn06ib7g3154j7cqdm2kch8r1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1081773739722-kkg9rqqv45fsq0l6mv3h9m0jfeqm0t1v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.taktikat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
