@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-<string name="facebook_app_id">583713246767359</string>
-<string name="app_name">Taktikat</string>
- <string name="facebook_client_token">d890a33fbdbadd74b7bb6b3b57a3cc78</string>
- <string name="fb_login_protocol_scheme">fb583713246767359</string>
- <string name="default_notification_channel_id">Taktikat Notifications</string>
-</resources>

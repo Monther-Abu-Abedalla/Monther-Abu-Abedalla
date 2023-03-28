@@ -1,4 +1,0 @@
-enum LineupTypes {
-  home,
-  away,
-}
