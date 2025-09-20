@@ -2,7 +2,7 @@
 
 ## Senior Full Stack Developer & Technical Team Lead
 
-**7+ years of experience** building scalable mobile and web applications with **Flutter, Laravel, and Vue.js**. Currently leading development teams and delivering applications used by **thousands of daily active users** across the MENA region.
+**7+ years of experience** building scalable mobile and web applications with **Flutter, Laravel, and Next.js**. Currently leading development teams and delivering applications used by **thousands of daily active users** across the MENA region.
 
 ### 🚀 Currently Working On
 - **Massaq Leading** - Full Stack Development with Laravel & Next.js
