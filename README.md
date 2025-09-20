@@ -32,12 +32,12 @@
 #### [**A2Z Megastore**](https://a2zmegastore.com) - eCommerce Platform
 Cross-platform shopping application with integrated payment gateway
 - **Tech Stack**: Flutter, Laravel, Payment Integration
-- **Platforms**: [Android](https://play.google.com/store/apps/details?id=com.a2zmegastore.app) | [iOS](https://apps.apple.com/app/a2z-megastore/id1234567890) | Web
+- **Platforms**: [Android](https://play.google.com/store/apps/details?id=com.a2zmegastore.app) | [iOS](https://apps.apple.com/app/a2z-megastore/id1234567890) | [Web](https://a2zmegastore.com/en)
 
 #### [**Reinvest**](https://reinvest.app) - Investment Platform  
 Multi-platform investment application with real-time market data
 - **Tech Stack**: Flutter, Secure Financial APIs, Real-time Data
-- **Platforms**: [Android](https://play.google.com/store/apps/details?id=com.reinvest.app) | [iOS](https://apps.apple.com/app/reinvest/id1234567890) | Web | Huawei
+- **Platforms**: [Android](https://play.google.com/store/apps/details?id=com.reinvest.app) | [iOS](https://apps.apple.com/app/reinvest/id1234567890) | [Web](https://reinvest.app) | Huawei
 
 #### [**Taktikat**](https://play.google.com/store/apps/details?id=com.digitalfuture.taktikat) - Football Live Coverage
 Real-time sports application serving the MENA region
