@@ -5,6 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/monther-abu-abedallah-130442254/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mabuabedallah@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Monther_Abu_Abedallah)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Monther-Abu-Abedalla)
 
 </div>
 
@@ -26,6 +27,7 @@ Currently **open to work** — looking for remote or relocation opportunities wi
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
@@ -48,7 +50,7 @@ Currently **open to work** — looking for remote or relocation opportunities wi
 <td width="50%">
 
 #### 🛒 [A2Z Megastore](https://a2zmegastore.com)
-Cross-platform eCommerce app with integrated payment gateway serving thousands of users.
+Cross-platform eCommerce app for computers & accessories with integrated payment gateway.
 
 `Flutter` `Laravel` `Payment Integration`
 
@@ -58,9 +60,9 @@ Cross-platform eCommerce app with integrated payment gateway serving thousands o
 <td width="50%">
 
 #### 💰 [Reinvest](https://reinvest.app)
-Multi-platform investment application with real-time market data and secure financial APIs.
+Multi-platform investment app with real-time market data, secure financial APIs, and Huawei AppGallery support.
 
-`Flutter` `Real-time Data` `Financial APIs`
+`Flutter` `Financial APIs` `Real-time Data`
 
 [▶ Google Play](https://play.google.com/store/apps/details?id=com.reinvest.app) · [🌐 Web](https://reinvest.app)
 
@@ -70,7 +72,7 @@ Multi-platform investment application with real-time market data and secure fina
 <td width="50%">
 
 #### ⚽ [Taktikat](https://play.google.com/store/apps/details?id=com.digitalfuture.taktikat)
-Real-time football coverage app serving the MENA region with live data processing.
+Real-time football coverage — highlights, goals, news, analysis & live results for the MENA region.
 
 `Flutter` `Real-time APIs` `Live Data`
 
@@ -80,7 +82,7 @@ Real-time football coverage app serving the MENA region with live data processin
 <td width="50%">
 
 #### 📍 [TryLocals](https://trylocals.com)
-Marketplace platform for discovering and ordering local products with location services.
+Marketplace for discovering and ordering local food & gifts with location-based services.
 
 `Flutter` `Laravel` `Location Services`
 
@@ -88,20 +90,75 @@ Marketplace platform for discovering and ordering local products with location s
 
 </td>
 </tr>
+<tr>
+<td width="50%">
+
+#### 🏢 [Massaq](https://massaq.com)
+Responsive, SEO-optimized company landing page with clean modular architecture and fast load times.
+
+`Vue.js` `SEO` `Responsive Design`
+
+[🌐 Website](https://massaq.com)
+
+</td>
+<td width="50%">
+
+#### 🥗 Dietition
+Nutrition planning app for meal planning, calorie tracking, and dietitian consultations.
+
+`Flutter` `Health APIs` `Nutrition Data`
+
+▶ Google Play · 🍎 App Store
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### 🤝 Trivvo
+Business networking platform connecting businesses across Oman — mobile & web.
+
+`Flutter` `Laravel` `Networking`
+
+[🌐 Web](https://trivvo.com)
+
+</td>
+<td width="50%">
+
+#### 📊 Hesabate
+Business accounting & management mobile application built with clean architecture principles.
+
+`Flutter` `Clean Architecture` `Accounting`
+
+[▶ Google Play](https://play.google.com/store/apps/details?id=com.hesabate.app)
+
+</td>
+</tr>
 </table>
+
+> **+ Utility Apps**: NotifSaver, Password Generator, TodoList, Age Calculator — clean, user-friendly tools solving everyday problems.
 
 ---
 
 ### Experience
 
 **Software Engineer & Full Stack Developer** · Massaq Leading *(2025 – Present)*
-> Full-stack development with Laravel & Next.js · High-traffic optimization · Testing strategies & code reviews
+> Full-stack development with Laravel & Vue.js · High-traffic optimization · Testing strategies & code reviews
 
-**Development Team Lead** · GG Fantasy Esports *(2024 – 2025)*
+**Software Engineer & Team Lead** · GG Fantasy Esports *(2024 – 2025)*
 > Led cross-functional team of 5–8 devs · Clean Architecture with Flutter · Real-time APIs for live game data
 
-**Senior Flutter Developer** · Freelance & Contract *(2021 – 2024)*
-> 10+ published apps · CI/CD pipelines with Fastlane & GitLab · Cross-platform Android/iOS delivery
+**Mobile Developer & Team Lead** · Hesabate *(2024 – 2025)*
+> Led eCommerce & mobile projects · CI/CD pipelines with Fastlane & GitLab CI · Reduced deployment times by 40%
+
+**Mobile Developer** · Mashro'ona *(2022 – Present)*
+> 10+ published apps · Clean Architecture (MVVM) · RESTful & GraphQL APIs · Increased user retention by 20%
+
+**Mobile Applications Developer** · AHD CO *(2021 – 2022)*
+> Cross-platform Android/iOS delivery · Custom Flutter plugins · Adaptive UI for all screen sizes
+
+**Mobile Applications Developer** · Atayf CO *(2020 – 2021)*
+> State management with Provider & Redux · Custom UI components · In-app payments integration
 
 ---
 
@@ -129,6 +186,13 @@ Marketplace platform for discovering and ordering local products with location s
 📈 **20% User Retention Increase** via UX improvements
 🎓 **92% GPA** — BSc Information Technology, Islamic University of Gaza
 👥 **Led Teams of 5–8** developers across multiple projects
+
+---
+
+### Education
+
+**Bachelor of Science in Information Technology** · Islamic University of Gaza *(2019 – 2023)*
+> Major: Mobile Computing & Smartphone Applications · Grade: **Excellent (92% GPA)**
 
 ---
 
