@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,50:0d47a1,100:00e6b8&height=220&section=header&text=Monther%20Abu%20Abedallah&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Senior%20Flutter%20%26%20Full%20Stack%20Developer%20%7C%20Mobile%20Architect&descSize=18&descAlignY=55&descColor=94a3b8&animation=fadeIn" width="100%" />
+# Hi, I'm Monther Abu Abedallah 👋
+### Senior Flutter & Full Stack Developer · Mobile Architect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/monther-abu-abedallah-130442254/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mabuabedallah@gmail.com)
@@ -198,7 +199,7 @@ Business accounting & management mobile application built with clean architectur
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,50:0d47a1,100:00e6b8&height=100&section=footer" width="100%" />
+---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Monther-Abu-Abedalla&color=00e6b8&style=for-the-badge&label=PROFILE+VIEWS)
 
