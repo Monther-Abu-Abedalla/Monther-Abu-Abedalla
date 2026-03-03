@@ -46,98 +46,66 @@ Currently **open to work** — looking for remote or relocation opportunities wi
 
 ### Featured Projects
 
+> These are some of my key projects — part of a larger portfolio of **10+ published applications**.
+
 <table>
 <tr>
 <td width="50%">
 
-#### 🛒 [A2Z Megastore](https://a2zmegastore.com)
-Cross-platform eCommerce app for computers & accessories with integrated payment gateway.
-
-`Flutter` `Laravel` `Payment Integration`
-
-[▶ Google Play](https://play.google.com/store/apps/details?id=com.a2zmegastore.app) · [🌐 Web](https://a2zmegastore.com/en)
-
-</td>
-<td width="50%">
-
-#### 💰 [Reinvest](https://reinvest.app)
+#### 💰 [Reinvest](https://reinvest.sa)
 Multi-platform investment app with real-time market data, secure financial APIs, and Huawei AppGallery support.
 
 `Flutter` `Financial APIs` `Real-time Data`
 
-[▶ Google Play](https://play.google.com/store/apps/details?id=com.reinvest.app) · [🌐 Web](https://reinvest.app)
+[▶ Google Play](https://play.google.com/store/apps/details?id=sa.reinvest.reinvest_mobile) · [🍎 App Store](https://apps.apple.com/jo/app/reinvest/id6473106904) · [🌐 Web](https://reinvest.sa)
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
-#### ⚽ [Taktikat](https://play.google.com/store/apps/details?id=com.digitalfuture.taktikat)
+#### ⚽ [Taktikat](https://play.google.com/store/apps/details?id=com.digitalfuture.taktikat&hl=ar)
 Real-time football coverage — highlights, goals, news, analysis & live results for the MENA region.
 
 `Flutter` `Real-time APIs` `Live Data`
 
-[▶ Google Play](https://play.google.com/store/apps/details?id=com.digitalfuture.taktikat) · [🍎 App Store](https://apps.apple.com/us/app/taktikat/id6443930220)
-
-</td>
-<td width="50%">
-
-#### 📍 [TryLocals](https://trylocals.com)
-Marketplace for discovering and ordering local food & gifts with location-based services.
-
-`Flutter` `Laravel` `Location Services`
-
-[▶ Google Play](https://play.google.com/store/apps/details?id=com.trylocals.app) · [🌐 Web](https://trylocals.com)
+[▶ Google Play](https://play.google.com/store/apps/details?id=com.digitalfuture.taktikat&hl=ar) · [🍎 App Store](https://apps.apple.com/om/app/taktikat-تكتيكات/id6443930220)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-#### 🏢 [Massaq](https://massaq.com)
-Responsive, SEO-optimized company landing page with clean modular architecture and fast load times.
-
-`Vue.js` `SEO` `Responsive Design`
-
-[🌐 Website](https://massaq.com)
-
-</td>
-<td width="50%">
-
-#### 🥗 Dietition
+#### 🥗 [Dietition](https://dietition.store)
 Nutrition planning app for meal planning, calorie tracking, and dietitian consultations.
 
 `Flutter` `Health APIs` `Nutrition Data`
 
-▶ Google Play · 🍎 App Store
+[▶ Google Play](https://play.google.com/store/apps/details?id=com.alriyami.dietition) · [🍎 App Store](https://apps.apple.com/om/app/dietition/id6747890031) · [🌐 Web](https://dietition.store)
+
+</td>
+<td width="50%">
+
+#### 🌟 [Athurayya](https://athurayya.com)
+Full-featured web platform with modern design and optimized performance.
+
+`Laravel` `Next.js` `Full Stack`
+
+[🌐 Website](https://athurayya.com)
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" colspan="2" align="center">
 
-#### 🤝 Trivvo
-Business networking platform connecting businesses across Oman — mobile & web.
+#### 🏢 [Massaq](https://massaq.sa)
+Responsive, SEO-optimized company landing page with clean modular architecture and fast load times.
 
-`Flutter` `Laravel` `Networking`
+`Vue.js` `SEO` `Responsive Design`
 
-[🌐 Web](https://trivvo.com)
-
-</td>
-<td width="50%">
-
-#### 📊 Hesabate
-Business accounting & management mobile application built with clean architecture principles.
-
-`Flutter` `Clean Architecture` `Accounting`
-
-[▶ Google Play](https://play.google.com/store/apps/details?id=com.hesabate.app)
+[🌐 Website](https://massaq.sa)
 
 </td>
 </tr>
 </table>
-
-> **+ Utility Apps**: NotifSaver, Password Generator, TodoList, Age Calculator — clean, user-friendly tools solving everyday problems.
 
 ---
 
