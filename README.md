@@ -39,6 +39,7 @@ Currently **open to work** — looking for remote or relocation opportunities wi
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab%20CI-%23FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Fastlane](https://img.shields.io/badge/Fastlane-00F200?style=for-the-badge&logo=fastlane&logoColor=white)
+![Apigee](https://img.shields.io/badge/Google%20Apigee-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 </div>
 
@@ -90,6 +91,28 @@ Full-featured web platform with modern design and optimized performance.
 `Laravel` `Next.js` `Full Stack`
 
 [🌐 Website](https://athurayya.com)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### 🧺 [Bask8](https://bask8.org)
+On-demand laundry & dry-cleaning app with door-to-door pickup & delivery, order tracking, and a recurring subscription model.
+
+`Flutter` `Subscriptions` `Logistics`
+
+[▶ Google Play](https://play.google.com/store/apps/details?id=com.appsbunches.bask8app) · [🍎 App Store](https://apps.apple.com/app/id6451110771) · [🌐 Web](https://bask8.org)
+
+</td>
+<td width="50%">
+
+#### 🎓 [Almajher](https://almajher.sa)
+Professional e-learning & consulting platform — certified courses, live expert sessions, and corporate team training. Available on iOS, Android & Web.
+
+`Flutter` `E-Learning` `Web`
+
+[🌐 Website](https://almajher.sa)
 
 </td>
 </tr>
