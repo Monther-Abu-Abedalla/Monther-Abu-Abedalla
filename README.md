@@ -165,6 +165,11 @@ Responsive, SEO-optimized company landing page with clean modular architecture a
 
 ---
 
+### 📜 Certifications
+
+**Google Cloud — Apigee API Platform · 2026**
+API Development, API Security, and API Design & Fundamentals with Apigee; plus Architecting, Installing, Upgrading, Monitoring and Securing the Apigee Hybrid API Platform; and Deploy & Manage Apigee X.
+
 <div align="center">
 
 ---
