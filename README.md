@@ -1,9 +1,9 @@
 <div align="center">
 
-# Monther Abu Abedallah
+# Munther Abu Abedallah
 ### Senior Software Engineer · Mobile, Full-Stack & Cloud
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/monther-abu-abedallah-130442254/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/munther-abu-abedallah-130442254/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mabuabedallah@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Monther_Abu_Abedallah)
 
