@@ -1,22 +1,21 @@
 <div align="center">
 
-# Hi, I'm Monther Abu Abedallah 👋
-### Senior Flutter & Full Stack Developer · Mobile Architect
+# Monther Abu Abedallah
+### Senior Software Engineer · Mobile, Full-Stack & Cloud
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/monther-abu-abedallah-130442254/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mabuabedallah@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Monther_Abu_Abedallah)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Monther-Abu-Abedalla)
 
 </div>
 
 ---
 
-### About Me
+### About
 
-I'm a **Senior Full Stack Developer** with **5+ years of experience** building scalable mobile and web applications. I specialize in **Flutter, Laravel, and Next.js**, and I've shipped **10+ production apps** used by thousands of daily active users across the MENA region. I've led development teams of 5–8 engineers, driven CI/CD optimization that cut deployment times by 40%, and improved user retention by 20% through UX-focused engineering.
+Software engineer with 6 years of experience shipping mobile and web products in **Flutter**, **Laravel**, and **Next.js**, from architecture to App Store and Google Play release. I've led development teams of 6 to 12 engineers, run deployments on **AWS**, **Google Cloud**, and **Oracle Cloud**, and load-tested systems with k6 and JMeter before major releases. Right now I'm building generative-AI features on Vertex AI and multiplayer mobile games in Unity.
 
-Currently **open to work** — looking for remote or relocation opportunities with innovative tech companies worldwide.
+Based in Sohar, Oman. Open to new opportunities, including relocation.
 
 ---
 
@@ -26,20 +25,30 @@ Currently **open to work** — looking for remote or relocation opportunities wi
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+<br>
+![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab%20CI-%23FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Fastlane](https://img.shields.io/badge/Fastlane-00F200?style=for-the-badge&logo=fastlane&logoColor=white)
-![Apigee](https://img.shields.io/badge/Google%20Apigee-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Apigee](https://img.shields.io/badge/Apigee-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+<br>
+![k6](https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white)
+![JMeter](https://img.shields.io/badge/Apache%20JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 </div>
 
@@ -47,156 +56,125 @@ Currently **open to work** — looking for remote or relocation opportunities wi
 
 ### Featured Projects
 
-> These are some of my key projects — part of a larger portfolio of **10+ published applications**.
-
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-#### 💰 [Reinvest](https://reinvest.sa)
-Multi-platform investment app with real-time market data, secure financial APIs, and Huawei AppGallery support.
+#### [Reinvest](https://reinvest.sa)
+Saudi real-estate investment platform. Integrated Nafath identity verification and Ministry of Justice data feeds to power live listings, auctions, and market indicators. **10,000+ downloads.**
 
-`Flutter` `Financial APIs` `Real-time Data`
+`Flutter` `iOS` `Android` `Web`
 
-[▶ Google Play](https://play.google.com/store/apps/details?id=sa.reinvest.reinvest_mobile) · [🍎 App Store](https://apps.apple.com/jo/app/reinvest/id6473106904) · [🌐 Web](https://reinvest.sa)
-
-</td>
-<td width="50%">
-
-#### ⚽ [Taktikat](https://play.google.com/store/apps/details?id=com.digitalfuture.taktikat&hl=ar)
-Real-time football coverage — highlights, goals, news, analysis & live results for the MENA region.
-
-`Flutter` `Real-time APIs` `Live Data`
-
-[▶ Google Play](https://play.google.com/store/apps/details?id=com.digitalfuture.taktikat&hl=ar) · [🍎 App Store](https://apps.apple.com/om/app/taktikat-تكتيكات/id6443930220)
+[Google Play](https://play.google.com/store/apps/details?id=sa.reinvest.reinvest_mobile) · [App Store](https://apps.apple.com/jo/app/reinvest/id6473106904) · [Web](https://reinvest.sa)
 
 </td>
-</tr>
-<tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-#### 🥗 [Dietition](https://dietition.store)
-Nutrition planning app for meal planning, calorie tracking, and dietitian consultations.
+#### [Bask8](https://bask8.org)
+Laundry and dry-cleaning app with pickup scheduling, order tracking, and recurring subscription billing. **5,000+ users.**
 
-`Flutter` `Health APIs` `Nutrition Data`
+`Flutter` `iOS` `Android`
 
-[▶ Google Play](https://play.google.com/store/apps/details?id=com.alriyami.dietition) · [🍎 App Store](https://apps.apple.com/om/app/dietition/id6747890031) · [🌐 Web](https://dietition.store)
-
-</td>
-<td width="50%">
-
-#### 🌟 [Athurayya](https://athurayya.com)
-Full-featured web platform with modern design and optimized performance.
-
-`Laravel` `Next.js` `Full Stack`
-
-[🌐 Website](https://athurayya.com)
+[Google Play](https://play.google.com/store/apps/details?id=com.appsbunches.bask8app) · [App Store](https://apps.apple.com/app/id6451110771) · [Web](https://bask8.org)
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-#### 🧺 [Bask8](https://bask8.org)
-On-demand laundry & dry-cleaning app with door-to-door pickup & delivery, order tracking, and a recurring subscription model.
+#### [A'Thurayya](https://athurayya.com)
+Study-abroad platform with a companion app for real-time student tracking, daily updates, and supervisor messaging.
 
-`Flutter` `Subscriptions` `Logistics`
+`Laravel` `Next.js` `Flutter`
 
-[▶ Google Play](https://play.google.com/store/apps/details?id=com.appsbunches.bask8app) · [🍎 App Store](https://apps.apple.com/app/id6451110771) · [🌐 Web](https://bask8.org)
+[Website](https://athurayya.com)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-#### 🎓 [Almajher](https://almajher.sa)
-Professional e-learning & consulting platform — certified courses, live expert sessions, and corporate team training. Available on iOS, Android & Web.
+#### [Almajher](https://almajher.sa)
+E-learning and consulting platform with certified courses, live expert sessions, and corporate team accounts.
 
-`Flutter` `E-Learning` `Web`
+`iOS` `Android` `Web`
 
-[🌐 Website](https://almajher.sa)
+[Website](https://almajher.sa)
 
 </td>
 </tr>
 <tr>
-<td width="50%" colspan="2" align="center">
+<td width="50%" valign="top">
 
-#### 🏢 [Massaq](https://massaq.sa)
-Responsive, SEO-optimized company landing page with clean modular architecture and fast load times.
+#### [Dietition](https://dietition.store)
+Nutrition app with meal-plan subscriptions, calorie tracking, and Apple HealthKit step integration.
 
-`Vue.js` `SEO` `Responsive Design`
+`Flutter` `iOS` `Android` `Web`
 
-[🌐 Website](https://massaq.sa)
+[Google Play](https://play.google.com/store/apps/details?id=com.alriyami.dietition) · [App Store](https://apps.apple.com/om/app/dietition/id6747890031) · [Web](https://dietition.store)
+
+</td>
+<td width="50%" valign="top">
+
+#### Unity Mobile Games
+Multiplayer online games and single-player horror and offline games. Real-time networking with Photon and back-end services on AWS. Preparing for store launch.
+
+`Unity` `C#` `Photon` `AWS`
 
 </td>
 </tr>
 </table>
 
+**Applied ML projects (Python, TensorFlow/Keras, scikit-learn, XGBoost):**
+- **LeafDoctor:** 38-class plant-disease classifier using MobileNetV2/EfficientNet transfer learning, with an Arabic/English Gradio demo.
+- **FraudShield:** XGBoost fraud scoring on imbalanced data (SMOTE, PR-AUC), served with FastAPI and explained with SHAP.
+- **SkinCheck:** skin-lesion screening classifier (EfficientNet/ResNet, 7 classes) with Grad-CAM visual explanations.
+- **KitabaOCR:** handwritten Arabic character recognizer (CNN) with a live drawing canvas and correct right-to-left rendering.
+
 ---
 
 ### Experience
 
-**Software Engineer & Full Stack Developer** · Massaq Leading *(2025 – Present)*
-> Full-stack development with Laravel & Vue.js · High-traffic optimization · Testing strategies & code reviews
+**Senior Software Engineer & Full-Stack Developer** · Masaq Leading Business *(Jun 2025 – Present)*
+> Flutter apps and Laravel back-end services · Generative-AI features on Google Cloud Vertex AI
 
-**Software Engineer & Team Lead** · GG Fantasy Esports *(2024 – 2025)*
-> Led cross-functional team of 5–8 devs · Clean Architecture with Flutter · Real-time APIs for live game data
+**Full-Stack Developer (Freelance)** · Ascot Enterprise Solutions *(Mar 2026 – Present)*
+> Laravel and Next.js web applications for international clients
 
-**Mobile Developer & Team Lead** · Hesabate *(2024 – 2025)*
-> Led eCommerce & mobile projects · CI/CD pipelines with Fastlane & GitLab CI · Reduced deployment times by 40%
+**IT Manager** · Al-Thuraya Higher Education Services *(2024 – Present)*
+> IT infrastructure, servers, and internal software · A'Thurayya platform
 
-**Mobile Developer** · Mashro'ona *(2022 – Present)*
-> 10+ published apps · Clean Architecture (MVVM) · RESTful & GraphQL APIs · Increased user retention by 20%
+**Software Engineer & Development Team Lead** · GG Fantasy Esports *(2024 – 2025)*
+> Led the engineering team · Deployments on AWS, Google Cloud, and Oracle Cloud · Load testing with k6 and JMeter
 
-**Mobile Applications Developer** · AHD CO *(2021 – 2022)*
-> Cross-platform Android/iOS delivery · Custom Flutter plugins · Adaptive UI for all screen sizes
+**Mobile Developer & Development Team Lead** · Hesabate *(2024 – 2025)*
+> Led the mobile team in Scrum · Flutter features · Clean Architecture and testing
 
-**Mobile Applications Developer** · Atayf CO *(2020 – 2021)*
-> State management with Provider & Redux · Custom UI components · In-app payments integration
+**Mobile Developer (Contract)** · Mashro'ona (Digital Future IT & Communications) *(2022 – 2026)*
+> Flutter apps, new features, fixes, and store releases
 
----
-
-### GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Monther-Abu-Abedalla&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a1628&title_color=00e6b8&icon_color=42a5f5&text_color=94a3b8" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monther-Abu-Abedalla&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a1628&title_color=00e6b8&text_color=94a3b8" height="170" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Monther-Abu-Abedalla&theme=tokyonight&hide_border=true&background=0a1628&ring=00e6b8&fire=42a5f5&currStreakLabel=00e6b8" width="60%" />
-
-</div>
+**Mobile Applications Developer** · AHD Technology / Atyaf for Technology *(2020 – 2022)*
+> Native Android (Kotlin, Java) and Flutter apps
 
 ---
 
-### Highlights
+### Certifications
 
-🎯 **10+ Published Apps** on Google Play & App Store
-⚡ **40% Faster Deployments** through CI/CD optimization
-📈 **20% User Retention Increase** via UX improvements
-🎓 **92% GPA** — BSc Information Technology, Islamic University of Gaza
-👥 **Led Teams of 5–8** developers across multiple projects
+- **AI Fluency: Framework & Foundations**, Anthropic, 2026 ([verify](https://verify.skilljar.com/c/2ayunk4oh53m))
+- **Apigee API Platform**, Google Cloud, 2026: Apigee X and Hybrid, API security and design, Apigee as an AI gateway
+- **MLOps for Generative AI**, Google Cloud skill badge (Vertex AI), 2026
+- **Applied Machine Learning & Deep Learning**, Kaggle, 2026: Intro to ML, Intermediate ML, Feature Engineering, Intro to Deep Learning, Computer Vision
 
 ---
 
 ### Education
 
-**Bachelor of Science in Information Technology** · Islamic University of Gaza *(2019 – 2023)*
-> Major: Mobile Computing & Smartphone Applications · Grade: **Excellent (92% GPA)**
+**BSc in Information Technology** · Islamic University of Gaza *(2019 – 2023)*
+> Mobile Computing & Smart Device Applications · Excellent grade, **ranked 1st in class** (CGPA 90.6%)
 
 ---
-
-### 📜 Certifications
-
-**Google Cloud — Apigee API Platform · 2026**
-API Development, API Security, and API Design & Fundamentals with Apigee; plus Architecting, Installing, Upgrading, Monitoring and Securing the Apigee Hybrid API Platform; and Deploy & Manage Apigee X.
 
 <div align="center">
 
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=Monther-Abu-Abedalla&color=00e6b8&style=for-the-badge&label=PROFILE+VIEWS)
+<img src="https://github-readme-stats.vercel.app/api?username=Monther-Abu-Abedalla&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a1628&title_color=00e6b8&icon_color=42a5f5&text_color=94a3b8" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monther-Abu-Abedalla&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a1628&title_color=00e6b8&text_color=94a3b8" height="170" />
 
 </div>
